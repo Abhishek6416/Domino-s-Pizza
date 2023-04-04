@@ -1,4 +1,4 @@
-##Clone of Domino's website
+Clone of Domino's website
 My third Project:
 Hello, My name is Priya Kesarwani. I am the student of Masai School. Currently I am in unit 6. This blog is all about my third project. We have worked in a team of 5 members.
 We have been assigned to clone Domino- Website.
